@@ -1,0 +1,4 @@
+1;Vaksin_Hevatitis;27;25000
+2;Vaksin_Varisela;30;35000
+3;Vaksin_Rotavirus;27;42000
+4;Vaksin_Polioo;30;42000

@@ -1,0 +1,3 @@
+Bagas;2100018224;Yogyakarta
+Didik;2100018181;Jambi
+Radip;2100018183;Lampung
